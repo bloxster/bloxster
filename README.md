@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bloxster
 - 👀 I’m interested in blockchain, particularly ethereum and its ecosystem
-- 🌱 I am currently too busy to learn how to code but it is in my plans 
+- 🌱 I am not a coder 
 - 💞️ I’m looking to collaborate
 
 <!---
