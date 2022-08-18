@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bloxster
-- 👀 I’m interested in blockchain, particularly ethereum and its ecosystem
+- 👀 I’m interested in blockchain, particularly Ethereum and Zcash
 - 🌱 I am not a coder 
 - 💞️ I’m looking to collaborate
 
