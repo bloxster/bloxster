@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bloxster
 - 👀 I’m interested in blockchain, particularly Ethereum and Zcash
-- 🌱 I am not a coder 
+- 🌱 I am learning Python
 - 💞️ I’m looking to collaborate
 
 <!---
