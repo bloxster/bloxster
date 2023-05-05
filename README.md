@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bloxster
-- 👀 I’m interested in blockchain, particularly Ethereum and Zcash
-- 🌱 I am learning Python
-- 💞️ I’m looking to collaborate
+- 👀 family father of 3 with little to 0 time
+- 🌱 I am learning Python mostly to use tweak Read The Docs
 
 <!---
 bloxster/bloxster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
