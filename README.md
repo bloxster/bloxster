@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bloxster
-- 👀 family father of 3 with little to 0 time
+- 👀 family father of 3 with little to no time
 - 🌱 I am learning Python mostly to use tweak Read The Docs
 
 <!---
