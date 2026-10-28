@@ -1,6 +1,6 @@
 ### Gianni M.
 
-Senior mechanical designer with 30 years in packaging machinery, based in Ticino, Switzerland.
+Senior mechanical designer with 30 years in packaging machinery, based in Ticino, Switzerland., with a passion for AI and coding.
 
 Alongside engineering, I write documentation and build content tooling for open-source projects:
 
